@@ -1,0 +1,5 @@
+first quantile is median which is 0.5 or 50% 
+quantile means dividing the data into equal parts
+
+
+https://www.youtube.com/watch?v=IFKQLDmRK0Y
